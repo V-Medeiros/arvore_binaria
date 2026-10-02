@@ -18,8 +18,8 @@ Opções do menu
 0. Sair.
 
 execute:
-```sh
+
 javac Main.java
 java Main
-```
+
 Use texto sem acentos ou pontuação. No Morse, separe as letras com um espaço e as palavras com /.
